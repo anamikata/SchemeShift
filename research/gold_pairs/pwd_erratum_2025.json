@@ -1,0 +1,49 @@
+{
+  "pair_id": "kerala-pwd-1217-1247-2025",
+  "title": "PWD sanction amount erratum — Panikkankudi Kombodinjal Ponmudi Road",
+  "classification": "engineering_regression_fixture_not_scholarship_eligibility_example",
+  "source_status": "official_documents_found_and_text_reviewed; page excerpts transcribed from official PDF text view; original PDF upload test still pending",
+  "old_document": {
+    "order_number": "G.O.(Rt)No.1217/2025/PWD",
+    "date": "2025-08-11",
+    "url": "https://document.kerala.gov.in/documents/governmentorders/govtorder2108202511%3A20%3A25.pdf",
+    "pages": [
+      "G.O.(Rt)No.1217/2025/PWD GOVERNMENT OF KERALA PUBLIC WORKS (G) DEPARTMENT. Administrative Sanction was accorded for the work Construction of Retaining wall @ KM 6/400 and providing 20mm bit CC to Panikankudi Kombodinjal Ponmudi Road at Km 0/000 to 8/000 km in Idukki LAC for an estimated amount of Rs. 350 Crores under the H/A 3054-03-337-97 in Idukki LAC vide Government Order read as 1st paper above. The Chief Engineer, PWD Roads Division, Thiruvananthapuram has requested to accord Revised Administrative Sanction for the work Construction of Retaining wall @ KM 6/400 and providing 20mm bit CC to Panikankudi Kombodinjal Ponmudi Road at Km 0/000 to 8/000 km in Idukki LAC Rs. 689 Crores under the H/A 3054-03-337-97 in Idukki LAC."
+    ,
+      "G.O.(Rt)No.1217/2025/PWD. Government have examined the matter in detail and are pleased to accord Revised Administrative Sanction for the work Construction of Retaining wall @ Km 6/400 and providing 20mm bit CC to Panikkankudi Kombodinjal Ponmudi Road at Km 0/000 to 8/000 for an amount of Rs 260 Lakhs, for the modified proposal subject to the following conditions."
+    ]
+  },
+  "new_document": {
+    "order_number": "G.O.(Rt)No.1247/2025/PWD",
+    "date": "2025-08-14",
+    "url": "https://document.kerala.gov.in/documents/governmentorders/govtorder2108202511%3A25%3A32.pdf",
+    "amendment": {
+      "effect": "specific_changes_only",
+      "amends_order_number": "G.O.(Rt)No.1217/2025/PWD",
+      "amends_order_quote": "Read G.O.(Rt)No.1217/2025/PWD Dated,Thiruvananthapuram, 11-08-2025",
+      "amends_order_page": 1,
+      "scope_quote": "The Government Order read above stands modified to this extent only.",
+      "scope_page": 1
+    },
+    "pages": [
+      "G.O.(Rt)No.1247/2025/PWD GOVERNMENT OF KERALA. Public Works Department - Revised Administrative Sanction for the work - Construction of Retaining wall @ Km 6/400 and providing 20mm bit CC to Panikkankudi Kombodinjal Ponmudi Road at Km 0/000 to 8/000 - Correction in the amount mentioned - Erratum - Orders Issued. Read G.O.(Rt)No.1217/2025/PWD Dated,Thiruvananthapuram, 11-08-2025. Government have pleased to correct the amounts mentioned in the first para as Rs. 350 Crores and in the second para as Rs. 689 Crores in the Government Order read above as Rs. 350 Lakh and Rs. 689 Lakh respectively. The Government Order read above stands modified to this extent only."
+    ]
+  },
+  "gold_rules": {
+    "old": [
+      {"field": "other", "scope": "previous sanction amount", "operator": "stated", "value": 350, "unit": "Crores", "quote": "for an estimated amount of Rs. 350 Crores under the H/A 3054-03-337-97 in Idukki LAC", "page": 1},
+      {"field": "other", "scope": "revised sanction request amount", "operator": "stated", "value": 689, "unit": "Crores", "quote": "Rs. 689 Crores under the H/A 3054-03-337-97 in Idukki LAC", "page": 1},
+      {"field": "other", "scope": "final revised sanction amount", "operator": "stated", "value": 260, "unit": "Lakhs", "quote": "for an amount of Rs 260 Lakhs, for the modified proposal subject to the following conditions", "page": 2}
+    ],
+    "new": [
+      {"field": "other", "scope": "previous sanction amount", "operator": "stated", "value": 350, "unit": "Lakh", "quote": "the amounts mentioned in the first para as Rs. 350 Crores and in the second para as Rs. 689 Crores in the Government Order read above as Rs. 350 Lakh and Rs. 689 Lakh respectively", "page": 1},
+      {"field": "other", "scope": "revised sanction request amount", "operator": "stated", "value": 689, "unit": "Lakh", "quote": "the amounts mentioned in the first para as Rs. 350 Crores and in the second para as Rs. 689 Crores in the Government Order read above as Rs. 350 Lakh and Rs. 689 Lakh respectively", "page": 1}
+    ]
+  },
+  "expected_changes": [
+    {"scope": "previous sanction amount", "change_type": "modified", "old_value": 350, "new_value": 350, "old_unit": "Crores", "new_unit": "Lakh"},
+    {"scope": "revised sanction request amount", "change_type": "modified", "old_value": 689, "new_value": 689, "old_unit": "Crores", "new_unit": "Lakh"},
+    {"scope": "final revised sanction amount", "change_type": "unchanged_by_limited_amendment", "old_value": 260, "new_value": 260, "old_unit": "Lakhs", "new_unit": "Lakhs"}
+  ],
+  "interpretation_note": "The erratum corrects only the amounts in the first and second paragraphs and states that the order is modified to this extent only. The Rs 260 Lakhs final sanction in the original order is not restated in the erratum; this fixture tests whether the system can preserve it as unchanged only after verifying the explicit limited-scope statement and the exact parent-order reference."
+}

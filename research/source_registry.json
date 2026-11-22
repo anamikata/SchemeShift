@@ -1,0 +1,159 @@
+{
+  "audit_date": "2026-11-16",
+  "records": [
+    {
+      "id": "cmrs-original-387-2025",
+      "scheme": "CM Researcher Scholarship",
+      "document": "G.O.(Ms) No.387/2025/HEDN",
+      "date": "2025-06-13",
+      "department": "Higher Education Department, Kerala",
+      "url": "https://www.highereducation.kerala.gov.in/index.php/g-o-s-circulars/g-o-index-for-2025/ms-series-2025",
+      "source_type": "official_index_entry",
+      "status": "indexed_only_full_order_pdf_not_yet_retrieved",
+      "notes": "Official HED 2025 index entry identifies this as the original CM Research Scholarship guidelines and lists 13 June 2025. MGU Order No.6595/AC A6/2025/MGU, dated 18 July 2025, cites the same GO as dated 16 June 2025. The official order PDF is still not retrieved; retain the date discrepancy until its complete operative text is checked."
+    },
+    {
+      "id": "cmrs-amendment-603-2025",
+      "scheme": "CM Researcher Scholarship",
+      "document": "G.O.(Ms) No.603/2025/HEDN",
+      "date": "2025-08-13",
+      "department": "Higher Education Department, Kerala",
+      "url": "https://www.highereducation.kerala.gov.in/index.php/103-hedn/government-order/g-o-index-for-2025",
+      "source_type": "official_index_entry",
+      "status": "indexed_only_full_order_pdf_not_yet_retrieved",
+      "notes": "Official HED 2025 index entry lists this order on 13 August 2025 and describes it as amending guidelines for the CM-Researcher Scholarship for permanent research students. The full operative PDF and exact changed clauses remain unverified."
+    },
+    {
+      "id": "cmrs-dce-notice-2025",
+      "scheme": "CM Researcher Scholarship",
+      "document": "DCE application notice and guidelines",
+      "date": "2025-08-13",
+      "department": "Directorate of Collegiate Education, Kerala",
+      "url": "https://collegiateedu.kerala.gov.in/wp-content/uploads/2025/08/CM-RESEARCHER.pdf",
+      "source_type": "official_implementation_notice",
+      "status": "text_reviewed_not_a_substitute_for_go_pair",
+      "notes": "Contains readable Malayalam guideline text, including full-time research, other-fellowship restriction, ₹10,000 monthly fellowship, and duration/continuation conditions. It is an implementation notice, not the original and amending GOs."
+    },
+    {
+      "id": "cmrs-mgu-related-order-6595-2025",
+      "scheme": "CM Researcher Scholarship",
+      "document": "MGU Order No.6595/AC A6/2025/MGU — University Junior Research Fellowship",
+      "date": "2025-07-18",
+      "department": "Mahatma Gandhi University",
+      "url": "https://research.mgu.ac.in/wp-content/uploads/2025/07/6595-AC_A_6-2025-.-.-.pdf",
+      "source_type": "official_university_order_comparative_reference",
+      "status": "text_reviewed_not_same_scheme",
+      "notes": "The preamble cites G.O.(Ms) No.387/2025/HEDN as background, but the operative change concerns MGU's University Junior Research Fellowship, not the CM Researcher Scholarship. Do not treat it as an amendment or implementation order for CM Researcher Scholarship."
+    },
+    {
+      "id": "obc-overseas-revised-6-2026",
+      "scheme": "Overseas Scholarship Scheme for Higher Studies",
+      "document": "G.O.(Rt) No.6/2026/BCDD",
+      "date": "2026-01-19",
+      "department": "Backward Classes Development Department, Kerala",
+      "url": "https://document.kerala.gov.in/documents/governmentorders/govtorder2001202616%3A43%3A12.pdf",
+      "source_type": "official_revised_order",
+      "status": "official_pdf_text_reviewed_parent_2014_order_not_yet_retrieved",
+      "notes": "Explicitly cites G.O.(Rt) No.11/2014/BCDD and says revised administrative sanction is issued after proposed modifications. Contains current eligibility rules including OBC/OEC, top-300 university, PG/PhD, 60% marks, below-40 age, and family income up to ₹6 lakh. PDF text manually reviewed: lines 10-17 identify the parent order and revised administrative sanction; lines 22-28 give university-rank, disciplines and study-level rules; lines 48-53 give marks, age, income and family/one-time restrictions; line 84 states inconsistent previous orders stand dispensed with. This is the new rule text, not proof of the complete prior rule set."
+    },
+    {
+      "id": "pwd-original-1217-2025",
+      "scheme": null,
+      "document": "G.O.(Rt) No.1217/2025/PWD",
+      "date": "2025-08-11",
+      "department": "Public Works Department, Kerala",
+      "url": "https://document.kerala.gov.in/documents/governmentorders/govtorder2108202511%3A20%3A25.pdf",
+      "source_type": "official_order",
+      "status": "text_reviewed_engineering_fixture_not_scholarship_example",
+      "notes": "Original revised administrative sanction order. Contains the two amounts later corrected by the erratum and a third Rs 260 Lakhs amount that is not within the erratum's stated correction scope."
+    },
+    {
+      "id": "pwd-erratum-1247-2025",
+      "scheme": null,
+      "document": "G.O.(Rt) No.1247/2025/PWD",
+      "date": "2025-08-14",
+      "department": "Public Works Department, Kerala",
+      "url": "https://document.kerala.gov.in/documents/governmentorders/govtorder2108202511%3A25%3A32.pdf",
+      "source_type": "official_erratum",
+      "status": "text_reviewed_engineering_fixture_not_scholarship_example",
+      "notes": "Explicitly corrects Rs 350 Crores to Rs 350 Lakh and Rs 689 Crores to Rs 689 Lakh and says the parent order is modified to this extent only."
+    },
+    {
+      "id": "obc-overseas-2024-snapshot-10-2024",
+      "scheme": "Overseas Scholarship Scheme for Higher Studies (OBC)",
+      "document": "G.O.(Rt) No.10/2024/BCDD",
+      "date": "2024-02-20",
+      "department": "Backward Classes Development Department, Kerala",
+      "url": "https://egrantz.kerala.gov.in/egrantz_uploads/567b2892e6a16632626a78ced3de8bd3.pdf",
+      "source_type": "official_beneficiary_selection_order_containing_policy_history",
+      "status": "official_pdf_text_reviewed_policy_history_and_batch_selection_not_parent_guidelines",
+      "notes": "Official order states that the 2014 policy initially covered THE top 200 universities and later included universities up to rank 600. For the 2023-24 selection, the committee separately selected from universities ranked up to 200. Do not conflate eligibility ceiling with that batch-specific selection cutoff. It also states the ₹6 lakh annual family income ceiling and lists eligible disciplines. Beneficiary personal data is excluded from SchemeShift fixtures. PDF text manually reviewed: lines 24-26 say the original scheme covered THE top 200 and was later expanded to top 600; lines 34-36 show the 2023-24 selection committee chose from rank 200 or better. Keep scheme ceiling (600 historical) distinct from that batch selection cutoff (200). The PDF includes beneficiary names and addresses; none are included in SchemeShift fixtures."
+    },
+    {
+      "id": "obc-overseas-operational-lead-69-2014",
+      "scheme": "Overseas Scholarship Scheme for Higher Studies (OBC)",
+      "document": "G.O.(Rt) No.69/2014/BCDD",
+      "date": "2014-08-18",
+      "department": "Backward Classes Development Department, Kerala",
+      "url": "https://www.sahayam.in/2014/10/",
+      "source_type": "secondary_archive_reference_only",
+      "status": "unverified_secondary_reference_not_official_pdf",
+      "notes": "A secondary archive lists this order as Overseas Scholarship to OBC students seeking admission in rated foreign universities, concerning drawing and disbursing scholarship amounts. It may be an operational order after the original 2014 scheme guidelines, but neither the official PDF nor operative text has been verified. Do not classify it as a policy amendment."
+    },
+    {
+      "id": "obc-creamy-layer-context-lead-03-2018",
+      "scheme": "Potentially relevant to OBC Overseas Scholarship income-limit history; relationship unverified",
+      "document": "G.O.(Ms) No.03/2018/BCDD",
+      "date": "2018-04-09",
+      "department": "Backward Classes Development Department, Kerala",
+      "url": "https://bcdd.kerala.gov.in/wp-content/uploads/2018/11/BCDD-Hand-book-pdf-1.pdf",
+      "source_type": "official_department_handbook_index_plus_secondary_order_description_and_judicial_exhibit_reference",
+      "status": "official_handbook_toc_and_court_exhibit_confirm_order_identity_secondary_subject_description_actual_standalone_go_not_retrieved_relationship_to_overseas_scheme_not_established",
+      "notes": "The official BCDD handbook published by the Director lists G.O.(Ms) No.03/2018/BCDD dated 09.04.2018 in its table of contents (handbook p.101); this verifies that the department's handbook identifies the order, but the handbook text extraction did not expose a complete standalone copy of this GO. A secondary archive describes its subject as enhancement of the creamy-layer income limit. Adhil M. Asif v. State of Kerala (Kerala High Court, 08.07.2019) is specifically about a request to raise the OBC Overseas Scholarship family-income slab and lists the 2014 scholarship GO as exhibit P2 and the 2018 creamy-layer GO as exhibit P3. This proves the documents were filed together in that litigation, not that the 2018 GO amended the overseas scholarship rules. Keep it as contextual/possibly relevant, not as a verified scheme amendment."
+    },
+    {
+      "id": "obc-2019-court-reference-adhil-asif",
+      "scheme": "Overseas Scholarship Scheme for Higher Studies (OBC)",
+      "document": "Adhil M. Asif v. State of Kerala, Kerala High Court, 8 July 2019",
+      "date": "2019-07-08",
+      "department": "Kerala High Court",
+      "url": "https://www.casemine.com/judgement/in/6431140090d8824f6459404d",
+      "source_type": "judicial_reference_secondary_host",
+      "status": "text_reviewed_exhibit_metadata_only_not_go_pdf",
+      "notes": "The judgment narrative expressly concerns the 2014 OBC Overseas Scholarship, whose annual family-income ceiling was ₹6 lakh, and a 2019 request to raise that scholarship ceiling. Its exhibit list includes G.O.(Rt) No.11/2014/BCDD dated 24 January 2014 (P2) and G.O.(Ms) No.03/2018/BCDD dated 9 April 2018 (P3). The exhibit pairing is a useful lead but does not establish that the 2018 creamy-layer order amended the scholarship rules."
+    },
+    {
+      "id": "obc-2014-parent-official-form-reference",
+      "scheme": "Overseas Scholarship Scheme for Higher Studies (OBC)",
+      "document": "Official BCDD Overseas Scholarship application form referring to G.O.(Rt) No.11/2014/BCDD",
+      "date": "2018-05 (upload path; form text gives 2014-01-29)",
+      "department": "Backward Classes Development Department, Kerala",
+      "url": "https://bcdd.kerala.gov.in/wp-content/uploads/2018/05/05-03-APPLICATION-FORM-FOR-OVERSEAS-SCHOLARSHIP.pdf",
+      "source_type": "official_department_application_form_reference_not_go_pdf",
+      "status": "official_form_confirms_parent_order_number_but_conflicts_on_order_date_with_2026_go",
+      "notes": "The official BCDD application form says applicants agree to abide by Government Order GO(Rt)11/2014/BCDD and prints the date as 29.1.2014. The 2026 revised GO cites the same parent order as dated 24.01.2014. This is a date discrepancy in a secondary operational document, not proof that the parent GO date is 29 January; the complete 2014 GO is still required."
+    },
+    {
+      "id": "obc-2014-parent-2020-form-reference",
+      "scheme": "Overseas Scholarship Scheme for Higher Studies (OBC)",
+      "document": "Official BCDD Overseas Scholarship application form",
+      "date": "2020-11 (upload path; form text gives 2014-01-29)",
+      "department": "Backward Classes Development Department, Kerala",
+      "url": "https://bcdd.kerala.gov.in/wp-content/uploads/2020/11/Application-Form.pdf",
+      "source_type": "official_department_application_form_reference_not_go_pdf",
+      "status": "official_form_repeats_29_jan_2014_date_not_parent_go_pdf",
+      "notes": "A later official BCDD application form repeats the reference to GO(Rt)11/2014/BCDD with date 29.1.2014. This supports the existence and order number but cannot resolve the 24 January versus 29 January discrepancy without the original GO."
+    },
+    {
+      "id": "obc-overseas-selection-08-2022",
+      "scheme": "Overseas Scholarship Scheme for Higher Studies",
+      "document": "G.O.(Rt) No.08/2022/BCDD",
+      "date": "2022-02-16",
+      "department": "Backward Classes Development Department, Kerala",
+      "url": "https://egrantz.kerala.gov.in/GO-8-2022-Overseas-selection-of-applicants_rearranged.pdf",
+      "source_type": "official_beneficiary_selection_order",
+      "status": "official_pdf_text_reviewed_chain_lead_not_parent_or_amendment",
+      "notes": "Official PDF text reviewed. Its preamble cites G.O.(Rt) No.11/2014/BCDD dated 24.01.2014 and G.O.(Rt) No.39/2021/BCDD dated 24.05.2021. It states the scheme standards were established under the 2014 order, that the university coverage originally included THE top 200 and was later expanded to top 600, and discusses 2021-22 beneficiary selection. This is a useful official chain lead and policy-history source, but it is a beneficiary-selection order, not itself proof of the complete amendment chain or the operative text of G.O.39/2021."
+    }
+  ]
+}

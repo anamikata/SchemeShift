@@ -1,0 +1,88 @@
+{
+  "candidate_id": "kerala-obc-overseas-2024-policy-snapshot-to-2026-revised-order",
+  "classification": "official_policy_snapshot_comparison_not_verified_direct_parent_amendment_pair",
+  "scheme": "Overseas Scholarship Scheme for Higher Studies (OBC)",
+  "privacy": "Only policy clauses are transcribed. Beneficiary names, addresses, and other personal data from the 2024 order are intentionally excluded.",
+  "older_source": {
+    "document": "G.O.(Rt) No.10/2024/BCDD",
+    "date": "2024-02-20",
+    "url": "https://egrantz.kerala.gov.in/egrantz_uploads/567b2892e6a16632626a78ced3de8bd3.pdf",
+    "source_type": "official_beneficiary_selection_order_containing_policy_history",
+    "verified_lines": [24, 25, 26, 159],
+    "relevant_quotes": [
+      {
+        "page_or_line": "PDF text lines 24-26",
+        "text": "The scheme is for OBC students pursuing PG/PhD courses abroad in the listed disciplines, with annual family income not exceeding ₹6 lakh. The order states that the 2014 order initially covered Times Higher Education top 200 universities and that universities up to rank 600 were subsequently included."
+      },
+      {
+        "page_or_line": "PDF text line 159",
+        "text": "University rankings are to be checked and an order issued before applications are invited each financial year."
+      }
+    ],
+    "limitations": [
+      "This is a beneficiary-selection order, not the complete 2014 scheme guidelines.",
+      "It describes the prior expansion to rank 600, but its own 2023-24 selection decision selected applicants from universities ranked up to 200. Eligibility ceiling and batch-specific selection cutoff must not be conflated.",
+      "The document's reference line gives a Malayalam-rendered identifier for the 2014 order; the 2026 order identifies the parent as G.O.(Rt) No.11/2014/BCDD dated 24.01.2014."
+    ]
+  },
+  "newer_source": {
+    "document": "G.O.(Rt) No.6/2026/BCDD",
+    "date": "2026-01-19",
+    "url": "https://document.kerala.gov.in/documents/governmentorders/govtorder2001202616%3A43%3A12.pdf",
+    "source_type": "official_revised_administrative_sanction",
+    "verified_lines": [10, 11, 15, 16, 17, 22, 25, 26, 28, 48, 50, 51, 52, 53, 84],
+    "relevant_quotes": [
+      {
+        "page_or_line": "PDF text lines 11 and 16-17",
+        "text": "The order cites G.O.(Rt) No.11/2014/BCDD dated 24.01.2014, describes proposed modifications to existing guidelines, and issues a revised administrative sanction."
+      },
+      {
+        "page_or_line": "PDF text lines 22-25",
+        "text": "Only candidates admitted to universities ranked within the top 300 in the annual Times Higher Education World University Rankings are eligible."
+      },
+      {
+        "page_or_line": "PDF text lines 26 and 28",
+        "text": "Eligible disciplines include Medical and Allied subjects, Engineering, Pure Sciences, Agricultural Sciences, Social Sciences, Law, Management, and Computer Science including Advanced Computer Technology and AI; study is restricted to foreign-university PG or PhD programmes."
+      },
+      {
+        "page_or_line": "PDF text lines 48-53",
+        "text": "Minimum 60% marks, age below 40, annual family income up to ₹6 lakh, one child per family, and one-time use of the scholarship."
+      },
+      {
+        "page_or_line": "PDF text line 84",
+        "text": "The revised sanction takes effect immediately and previous orders inconsistent with it stand dispensed with."
+      }
+    ]
+  },
+  "safe_comparison_findings": [
+    {
+      "field": "university_ranking_eligibility_ceiling",
+      "older_snapshot": "Universities up to rank 600 had subsequently been included in the scheme (2024 order's historical description).",
+      "newer_rule": "Top 300 universities only.",
+      "change_type": "narrowed_in_2026_revised_order",
+      "confidence": "high_for_the_two_quoted_documents; not_a_direct_parent_clause_diff",
+      "important_caveat": "The 2024 order separately selected applicants from universities ranked up to 200 for that specific batch. That selection cutoff is not the same as the scheme's stated historical eligibility ceiling of 600."
+    },
+    {
+      "field": "eligible_disciplines",
+      "older_snapshot": "The 2024 order lists Medical, Agricultural Science, Pure Science, Management, Engineering, Law, and Social Science.",
+      "newer_rule": "The 2026 order lists these areas and explicitly includes Computer Science, Advanced Computer Technology, and AI.",
+      "change_type": "explicitly_expanded_or_clarified_in_2026_text",
+      "confidence": "high_for_text_presence; legal_effect_requires_parent_guidelines"
+    },
+    {
+      "field": "income_ceiling",
+      "older_snapshot": "Annual family income not exceeding ₹6 lakh.",
+      "newer_rule": "Annual family income up to ₹6 lakh.",
+      "change_type": "appears_unchanged_in_available_snapshots",
+      "confidence": "high_for_text_presence; not_proof_of_no_intervening_change"
+    }
+  ],
+  "not_yet_safe_to_infer": [
+    "The full set of 2014 eligibility conditions.",
+    "Whether every 2026 condition is newly introduced, retained, or modified from 2014.",
+    "Whether the 2026 order replaces all prior orders or only inconsistent provisions; its text says previous orders inconsistent with it stand dispensed with.",
+    "A definitive applicant eligibility outcome without the complete applicable guidelines and current annual ranking list."
+  ],
+  "recommended_use": "Use as a labelled research/candidate comparison and extraction benchmark for explicit quoted clauses. Do not include in the gold set of direct parent-amendment pairs until the 2014 parent order and any intervening amendments are retrieved and checked."
+}
